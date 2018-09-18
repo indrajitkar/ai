@@ -24,12 +24,12 @@ google_searches_dict = {'what': 'what', 'why': 'why', 'who': 'who', 'which': 'wh
 social_media_dict = {'facebook': 'https://www.facebook.com', 'twitter': 'https://www.twitter.com'}
 social_post = {'post': 'post'}
 
-mp3_thanktou_list = ['mp3/ai/thankyou_1.mp3', 'mp3/friday/thankyou_2.mp3']
-mp3_listening_problem_list = ['mp3/ai/listening_problem_1.mp3', 'mp3/friday/listening_problem_2.mp3']
+mp3_thanktou_list = ['mp3/ai/thankyou_1.mp3', 'mp3/ai/thankyou_2.mp3']
+mp3_listening_problem_list = ['mp3/ai/listening_problem_1.mp3', 'mp3/ai/listening_problem_2.mp3']
 mp3_struggling_list = ['mp3/ai/struggling_1.mp3']
-mp3_google_search = ['mp3/ai/google_search_1.mp3', 'mp3/friday/google_search_2.mp3']
-mp3_greeting_list = ['mp3/ai/greeting_accept.mp3', 'mp3/friday/greeting_accept_2.mp3']
-mp3_open_launch_list = ['mp3/ai/open_1.mp3', 'mp3/friday/open_3.mp3', 'mp3/friday/open_2.mp3']
+mp3_google_search = ['mp3/ai/google_search_1.mp3', 'mp3/ai/google_search_2.mp3']
+mp3_greeting_list = ['mp3/ai/greeting_accept.mp3', 'mp3/ai/greeting_accept_2.mp3']
+mp3_open_launch_list = ['mp3/ai/open_1.mp3', 'mp3/ai/open_3.mp3', 'mp3/ai/open_2.mp3']
 
 error_occurrence = 0
 counter = 0
