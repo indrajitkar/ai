@@ -14,7 +14,7 @@ To have this, first you need to install some mudules as listed below:
 5) watchdog
 6) playsound
 7) facebook-sdk
- make a sub-folder in ai folder and put the name "mp3" and move all .mp3 sound track in "mp3" sub-folder
+ make a sub-folder in ai folder and put the name "mp3" and create a another sub-folder name "ai" then move the all  sound track in "mp3/ai" sub-folder
  
  
 #thanks
